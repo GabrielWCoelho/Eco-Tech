@@ -1,1 +1,1 @@
-# Eco-Tech
+# Eco Tech
