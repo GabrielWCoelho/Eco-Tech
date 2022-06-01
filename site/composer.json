@@ -1,0 +1,13 @@
+{
+    "name": "gabrielw/site",
+    "description": "EcoTech Website",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabrielw\\Site\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

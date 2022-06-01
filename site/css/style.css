@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family:'Poppins',sans-serif;
+    background-color:rgb(30, 150, 31);
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    margin:0 auto;
+    padding:0 2%;
+}
+.logo{
+width: 300px;
+}
+header{
+    padding: 20px 0;
+}
+.menu{
+    width: 47%;
+    text-align: right;
+    padding-top: 70px;
+}
+.menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.phone{
+    margin-left: 20%;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.mid{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0 2%;
+
+}
+
+.nat{
+    margin-left: 70px;
+    margin-top: 180px;
+    margin-right: 80px;
+    font-size: 60px;
+    width: 45%;
+    text-align: center;
+    color: azure;
+}
+.banner{
+    width: 30%;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+.botton{
+    position: absolute;
+    display: flex;
+    margin-left: 200px;
+    
+}
+.botton img{
+    margin: 30px;
+
+}
+
+.contatos{ 
+    display: flex;
+justify-content: space-around;
+padding: 200px;
+align-items: flex-end;
+background-color:white;
+padding-bottom: 180px;
+}
+
+.Titulo-contato{ 
+display: flex; 
+color: white;
+justify-content: center;
+font-weight: 1300;
+font-size: 35px;
+}
+
+.primeiro-paragrafo-email{
+display: flex;
+background-color: white;
+color:rgb(30, 150, 31);
+}
+.segundo-paragrafo-email{
+display: flex;
+background-color: white;
+color:rgb(30, 150, 31);
+
+}
+
+.terceiro-paragrafo-email{
+background-color: white;
+}
+.primeiro-paragrafo-telefone{
+display: flex;
+background-color: white;
+color: rgb(30, 150, 31);
+}
+
+.segundo-paragrafo-telefone{
+display: flex;
+background-color: white;
+color: rgb(30, 150, 31);
+}
+
+.terceiro-paragrafo-telefone{
+    display: flex;
+    background-color: white;   
+}
+.titulo-sobre-nós{
+display: flex;
+color: white;
+justify-content: center;
+font-weight: 1300;
+font-size: 30px;
+}
+.texto-sobre-nós{
+    background-color: white;
+    color: rgb(30, 150, 31);
+    font-size: 30px;
+    padding-top: 120px;
+   text-align: center;
+   padding-bottom: 399px;
+}
+.titulo-porque-reciclar{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    justify-content: center;
+}
+.texto-porque-reciclar{
+    background-color: white;
+    justify-content: center;
+padding-top: 120px;
+padding-bottom: 399px;
+text-align: center;
+font-size: 30px;
+color: rgb(30, 150, 31);
+}
+.Texto-como-reciclar{
+   display: flex;
+   font-size: 30px;
+   background-color: white;
+   color: rgb(30, 150, 31);
+   padding-top: 120px;
+   padding-bottom: 399px;
+   text-align:center;
+   gap: 50px;
+}
+.titulo-como-reciclar{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    justify-content: center;
+}
+form {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 200px;
+    
+}
+button {
+   width: 100%;
+}
+.tituloform{
+    background-color: rgb(30, 150, 31);
+    color: rgb(255, 255, 255);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.nameform{
+background-color: rgb(30, 150, 31);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+.clique{
+    background-color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size:20px;
+    padding-bottom: 250px;
+    
+}
+.cliqueaq{
+    background-color: white;
+}
+.nomeform{
+    color: rgb(255, 255, 255);
+}
+.emailform{
+    color: rgb(255, 255, 255);
+}
+.messageform{
+    color: rgb(255, 255, 255);
+}
